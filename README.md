@@ -1,6 +1,6 @@
 [![Github Stars](https://img.shields.io/badge/stars-nominate-brightgreen?logo=github)](https://stars.github.com/nominate/)
 
-<h1 align="center">Learn-AI-for-free/h1>
+<h1 align="center">Learn-AI-for-free </h1>
 
 ## 👋 Welcome!
 
